@@ -1,0 +1,5 @@
+root_url: "http{s}:/{instance}/{default-collection}"
+team: "{team}"
+query_id: "{queryId}"
+username: "{username}"
+password: "{password}"
